@@ -1,8 +1,8 @@
 # KubeADM-CalicoCloud
 Install Docker + Kubernetes + Calico Cloud (ESXi/Ubuntu/OnPrem)
 
-In this exercise we need 3 Linux nodes freshly installed, updated that are on the same network.
-They can be located on any hypervisor (Hyper-V, ESXi, VirtualBox etc.).
+In this exercise we need 3 Linux nodes freshly installed, updated and that are on the same network.
+They can be located on any hypervisors (Hyper-V, ESXi, VirtualBox etc.).
 
 I have chosen to use 3 Ubuntu servers on my VMware vSphere Cluster of 2 ESXi Hosts.
 The hosts and VMs are on the same network as the lan to make it easier to manage them.
