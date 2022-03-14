@@ -1,4 +1,4 @@
-# KubeADM-CalicoCloud
+# Kubeadm-CalicoCloud
 Install Kubernetes (with Docker by default) + Calico Cloud (ESXi/Ubuntu/OnPrem)
 
 In this exercise we need 3 Linux nodes freshly installed, updated and that are on the same network.
