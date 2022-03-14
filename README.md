@@ -29,7 +29,7 @@ Install Ubuntu Server
 ```
 https://ubuntu.com/tutorials/install-ubuntu-server#1-overview
 ```
-Install Kubernetes on Linus
+Install Kubernetes on Linux
 ```
 https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
 ```
