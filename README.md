@@ -18,34 +18,38 @@ Calico Cloud
 ## Sources and Pre-requierements
 
 Install and Configure ESXi Host
-```
+
 https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.esxi.install.doc/GUID-93D0227B-E5ED-40B0-B8E2-71141A32EB00.html
-```
+
 Deploy a Virtual Machine
-```
+
 https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-AE8AFBF1-75D1-4172-988C-378C35C9FAF2.html?hWord=N4IghgNiBcIG4EsBOAXArpABAWzAYwAsEA7AUxAF8g
-```
+
 Install Ubuntu Server
-```
+
 https://ubuntu.com/tutorials/install-ubuntu-server#1-overview
-```
+
 Install Docker for Ubuntu
-```
+
 https://docs.docker.com/engine/install/ubuntu/
-```
+
 Install Kubernetes on Linux
-```
+
 https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
-```
+
+Create your first cluster with Master Node and setup kube user
+
+https://www.cloudsigma.com/how-to-install-and-use-kubernetes-on-ubuntu-20-04/
+
 Install Project Calico
-```
+
 https://projectcalico.docs.tigera.io/getting-started/kubernetes/self-managed-onprem/onpremises
-```
+
 Install and Configure Calicoctl
-```
+
 https://projectcalico.docs.tigera.io/maintenance/clis/calicoctl/install
-```
+
 Connect your Kubernetes cluster to Calico Cloud
-```
+
 https://tigera.awsworkshop.io/040_calico_setup/joinekstocalicocloud.html
-```
+
